@@ -1,2 +1,2 @@
 # Mern-Project-
-This is a Social Media web app
+This is a E-commerce website
